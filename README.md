@@ -1,1 +1,3 @@
 # Bike-Sales-Analysis
+Data Cleaning and Data Visualization of Bike Sales using Microsoft Excel
+>This excel file contains a comprehensive analysis of sales data of a bike shop. Enclosed in the Working Sheet tab is the cleaned data from the source dataset which is the bike_buyers tab. The excel file also includes a visualization dashboard that displays key metrics and trends, such as average income per purchase, customer age bracket and customer commute. The dashboard is interactive and allows you to filter by different buyer dimensions, such as marital status, location/region, education and number of cars.
